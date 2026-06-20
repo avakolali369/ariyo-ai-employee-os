@@ -1,0 +1,30 @@
+:root {
+  color-scheme: light;
+  --color-bg-default: 247 248 246;
+  --color-bg-subtle: 237 240 236;
+  --color-bg-elevated: 255 255 255;
+  --color-text-primary: 26 33 31;
+  --color-text-secondary: 82 94 89;
+  --color-text-muted: 103 116 110;
+  --color-border-default: 211 218 214;
+  --color-brand-primary: 22 91 86;
+  --color-brand-primary-contrast: 255 255 255;
+  --color-status-success: 36 125 84;
+  --color-status-warning: 174 111 24;
+  --color-status-danger: 178 54 54;
+  --color-status-info: 45 92 158;
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-10: 2.5rem;
+  --radius-sm: 0.375rem;
+  --radius-md: 0.5rem;
+  --shadow-card: 0 1px 2px rgb(18 24 20 / 0.08), 0 12px 28px rgb(18 24 20 / 0.08);
+  --layout-sidebar-width: 17rem;
+  --motion-fast: 140ms;
+  --motion-standard: 220ms;
+}
