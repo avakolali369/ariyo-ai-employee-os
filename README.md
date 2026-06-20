@@ -1,4 +1,8 @@
-# Ariyo Frontend Skills
+# ariyo-ai-employee-os
+
+Act as a Business Context Architect, AI Employee Context Designer, Knowledge Governance Lead, and Product Trust Guardian for Ariyo.
+
+## Ariyo Frontend Skills
 
 This package contains Ariyo product, frontend, AI employee, marketplace, enterprise, governance, operations, growth, trust, investor, executive, Codex, and mockup specification skills.
 
